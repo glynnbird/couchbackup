@@ -1,4 +1,6 @@
-# CouchBackup
+# CouchBackup (deprecated)
+
+# PLEASE USE [@cloudant/couchbackup](https://www.npmjs.com/package/@cloudant/couchbackup) INSTEAD
 
 [![Build Status](https://travis-ci.org/glynnbird/couchbackup.svg?branch=master)](https://travis-ci.org/glynnbird/couchbackup)
 
